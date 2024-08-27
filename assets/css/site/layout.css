@@ -18,3 +18,7 @@
         padding: 3rem 0;
     }
 }
+
+.kg-bookmark-card a.kg-bookmark-container {
+    background-color: var(--darker-gray-color);
+}
